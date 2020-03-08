@@ -64,7 +64,7 @@ education:
 experiences:
     - role: Sr Developer - Data Analytics
       time: 2013 - Present
-      company: Ally Financials , Detroit
+      company: Ally Financials , Detroit MI
       details: |
         - BI SME for Dealer Services, collaborating with business to build critical
         reporting solutions.
@@ -101,28 +101,90 @@ experiences:
         - Worked on re-designing legacy Framework Model, implemented design fixes
         to legacy models replacing relational modeling by star schema based
         modeling.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Used SharePoint developer suite to organize and implement processes for
+        storing project artifacts
+    - role: Senior Solutions Architect
+      time: 2012 - 2013
+      company: TTI Of Usa, New York NY
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Created reporting framework and solutions for transnational system.
+        - Provided Data Analysis and logical fixes to data anomalies across database
+        systems
+        - Gathered requirements from business and documented specifications for
+        junior developers.
+        - Involved in PoC for BI comparison tool : Cognos 11 (Analytics),Tableau,
+        Power BI, and Qlik Sense
+        - Reviewed and optimized legacy reports (using Report Studio suite) to improve
+        run-time performance and reduce database CPU usage.
+        - Created custom visualizations graph using Visualization Modifier tool using
+        JSON.
+        - Customized palettes to use standard color schemes.
+        - Worked on designing framework model for real-time complex relational
+        reporting database.
+        - Created relational and star schema based reporting models using Framework
+        10.2.2/10.1.1
+        - Consolidated Cognos Upgrade (Business Enterprise NAO &amp; Insurance
+        Reports migration from version Cognos 8.4.1/8.3 to Cognos 10.1.1 to Cognos
+        10.2.2 at 2 year timeframe)
+        - Automated Performance Analytic process for Enterprise DataMart Load
+        Completion Status.
+        - Designed process for performance monitoring at Datawarehouse Load by
+        using KPI&#39;s.
+        - Gathered Technical Requirements and Designed reports on IBM Inforsphere
+        Business Glossary and Metadata Workbench Reporting Database.
+        - Implemented Cognos to IBM Business Glossary Integration.
+        - Implemented Cognos BI components lineage expansion using IBM Metadata
+        Workbench tool.
+        - Provided Requirement Documentation for assigned cognos projects.
+        - Automated Cognos Framework and Report Specification document using self-
+        built tool called Abio. Tool extracts xml codes and transforms it into csv file for
+        analysis and documentation purpose.
+        - Implemented IT processes that best fits IT standards from Reporting
+        perspective.
+        - Worked on re-designing legacy Framework Model, implemented design fixes
+        to legacy models, replacing relational modeling by star schema based
+        modeling.
+        - Implemented Automated System Monitoring through Foglight.
+    - role: Datawarehouse Consultant
+      time: 2011 - 2012
+      company: Reliable Software Resources Inc., Northville, MI
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Worked on Cognos 8.4.1/8.3, Microstrategy, Powerplay Tranformer and
+        Informatica Environment.
+        - Creation of users groups and roles for security set up in Cognos 8.4.1 using
+        CWS LDAP.
+        - Analyzed the business requirements to understand the business rules of the
+        company by coordinating with data architects and stakeholder committee
+        members.
+        - Provided Production Support and maintained System Stability and
+        Performance of Cognos Servers.
+        - Involved in UAT process and deployment of reports from Cognos Dev to QA to
+        Production.
+        - Used TOAD for Oracle software to test the data of the Cognos Reports in
+        Oracle database.
+        - Created Complex Reports, Dashboards, Ad-Hoc Reports and Scorecards
+        using Report Studio, Query Studio, Analysis Studio and Metric Studio.
+        - Developed DMR (Dimensionally Metadata modeling using Relational
+        Database) Models (Drill up, drill down Levels: Powerplay) in Framework
+        Manager using IBM best practices.
+        - Developed Complex Reports, which involved multi-Prompts, multi-query
+        against multiple databases.
+        - Created a standard design Template for Cognos Reports to achieve user
+        feasibility.
+        - Coordinated with Cognos Administrators to schedule and deploy cubes to
+        respective environments
+        - Designed IQD packages in Framework Manager and integrated to Powerplay
+        transformer to create various models and cubes.
+        - Analyzed the sources, targets, transformed the data, mapped the data and
+        loading the data into the data warehouse.
+        - Utilized a lookup and update strategy to lookup values from different tables and
+        to update slowly changing dimensions.
+        - Developed reusable mapplets and Transformations.
+        - Extensively used Informatica designer to create and manipulate source
+        definitions, target definitions, mappings, mapplets, transformations, re-usable
+        transformations etc.
+        - Trained End Users on how to use Cognos Tool and gather user requirements.
+        - Proposed and documented Robust BI Practices during Team meetings.
 projects:
     title: Projects
     intro: >
