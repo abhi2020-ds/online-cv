@@ -15,7 +15,7 @@ sidebar:
     email: abhineet0303@outlook.com
     phone: (734) 489 9550
     website: #do not add http://
-    linkedin: alandoe
+    linkedin: abhineetsingh03
     github: abhi2020-ds
     gitlab:
     bitbucket:
@@ -45,51 +45,62 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     MS in Computer Science from University of Illinois, 10+ years of experience & expertise in Solution design and Development of reporting and analytics tools, deep understanding of Database Management Systems and Enterprise Data Warehouse. Advanced knowledge of IT and business processes across Financial, Manufacturing and Education industries.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Computer Science
+      university: University of Illinois Springfield
+      time: 2009 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Course work included Advanced Database Management Concepts, Data Mining,
+        Computer Networks, Cyber Security , Robotics
+
+    - degree: BE in Computer Science
+      university: SJB Institute Of Technology
+      time: 2004 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Course work included Advanced Algorithms , Database Structures, Computer
+        Organization, Electronics Communication, Microprocessors, C++, Java, Graphic Design
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Sr Developer - Data Analytics
+      time: 2013 - Present
+      company: Ally Financials , Detroit
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - BI SME for Dealer Services, collaborating with business to build critical
+        reporting solutions.
+        - Helped design database solutions to support robust reporting user experience
+        - Built reporting framework solutions for transactional &amp; traditional warehouse
+        systems.
+        - Developed enterprise wide solution and delivered fixes to data anomalies
+        experienced for business reporting
+        - Documented requirements specifications for junior developers.
+        - Involved in designing solutions for BI tools : Cognos 11 (Analytics),Tableau,
+        Power BI, and Qlik Sense
+        - Analyzed and tuned legacy reports (using Report Studio suite) to improve run-
+        time performance and reduce database CPU usage.
+        - Used custom visualizations graph leveraging Visualization Modifier tool using
+        JSON.
+        - Educated fellow authors on reporting standard practices
+        - Created relational and star schema based reporting models using Framework
+        10.2.2/10.1.1
+        - Consolidated Cognos Upgrade (Business Enterprise NAO &amp; Insurance
+        Reports migration from version Cognos 8.4.1/8.3 to Cognos 10 and Cognos 11
+        - Automated Performance Analytic process for Enterprise DataMart Load
+        Completion Status.
+        - Designed process for performance monitoring at Datawarehouse Loads by
+        using KPI&#39;s.
+        - Gathered Technical Requirements and Designed reports on IBM Infosphere
+        Business Glossary and Metadata Workbench Reporting Database.
+        - Implemented Cognos to IBM Business Glossary
+        - Implemented Cognos BI components to IBM Metadata Workbench tool.
+        - Automated Cognos Framework and Report Specification document using self-
+        built tool called Abio. Tool extracts xml codes and transforms it into csv file for
+        analysis and documentation purpose.
+        - Implemented IT processes that best fits IT standards from Reporting
+        perspective.
+        - Worked on re-designing legacy Framework Model, implemented design fixes
+        to legacy models replacing relational modeling by star schema based
+        modeling.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
