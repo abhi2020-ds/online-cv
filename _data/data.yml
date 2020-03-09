@@ -187,7 +187,7 @@ experiences:
         - Proposed and documented Robust BI Practices during Team meetings.
 projects:
     title: Projects
-    intro: |
+    intro:
     assignments:
       - title:
         link:
@@ -195,7 +195,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
+    intro:
     papers:
       - title:
         link:
