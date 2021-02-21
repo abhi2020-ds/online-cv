@@ -61,6 +61,26 @@ education:
       details: |
         Course work included Advanced Algorithms , Database Structures, Computer
         Organization, Electronics Communication, Microprocessors, C++, Java, Graphic Design
+        
+    - degree: Certified ThoughtSpot Data Expert
+      university: ThoughtSpotU
+      time: 2021 - Current
+      details: |
+       A Certified ThoughtSpot Data Expert can deploy and set up a ThoughtSpot installation. They can go from a few data files and a newly deployed instance to an intuitive, searchable data experience. They know how to load data and create worksheets, so that users can access data and ask questions on their own. They can make the appropriate settings and configurations to ensure that the value of ThoughtSpot is realized in a real world use case.
+        
+    - degree: Certified ThoughtSpot Professional
+      university: ThoughtSpotU
+      time: 2021 - Current
+      details: |
+        A Certified ThoughtSpot Professional has proven their ability to use ThoughtSpot as an end user, at a very advanced level. They can choose the best approach among alternative ways of getting answers from data. They know how to write complex formulas, use the most powerful keywords, and handle aggregation. They can communicate their insights from data understandably and comprehensively.
+
+    - degree: Machine Learning
+      university: Coursera
+      time: 2020 - Current
+      details: |
+       This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+
+        
 experiences:
     - role: Sr Developer - Data Analytics
       time: 2013 - Present
@@ -141,7 +161,7 @@ skills:
       - name: Cognos Analytics
         level: 98%
         
-      - name: ThoughSpot
+      - name: ThoughtSpot
         level: 98%
 
       - name: PowerBI
