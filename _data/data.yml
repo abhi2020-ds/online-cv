@@ -26,14 +26,14 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Professional
+        level: Professional/Fluent
 
       - idiom: Hindi
-        level: Native
+        level: Native/Fluent
 
 
     interests:
-      - item: Tennis
+      - item: Technology Webinar & Conferences
         link:
 
       - item: Community Services
