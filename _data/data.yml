@@ -181,3 +181,13 @@ skills:
         
       - name: Machine Learning
         level: 60%
+        
+publications:
+    title: Articles and Blogs
+    intro: |
+      Blogs associated with implemenrations of best BI practices and standards across industries. Concepts here are explained through code snippets and tips for resolving technical challenges encountered, leveraging developers tools and languages such as SQL, Cognos, Power BI, ThoughtSpot and R Studio/Python.
+    papers:
+      - title: Cognos Analytics
+        link: "https://abhi2020-ds.github.io/blog/cognos/"
+        authors: Abhineet Singh
+        
