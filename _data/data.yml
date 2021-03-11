@@ -187,7 +187,10 @@ publications:
     intro: |
       Blogs associated with implemenrations of best BI practices and standards across industries. Concepts here are explained through code snippets and tips for resolving technical challenges encountered, leveraging developers tools and languages such as SQL, Cognos, Power BI, ThoughtSpot and R Studio/Python.
     papers:
-      - title: Cognos Analytics
+      - title: Cognos Analytics - Overview
         link: "https://abhi2020-ds.github.io/blog/cognos/"
+        authors: Abhineet Singh
+    - title: ThoughtSpot - BI Analytics
+        link: "https://abhi2020-ds.github.io/blog/tspot/"
         authors: Abhineet Singh
         
