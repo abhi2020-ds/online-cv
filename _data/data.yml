@@ -80,6 +80,57 @@ education:
       details: |
        This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: SQL
+        level: 98%
+
+      - name: Cognos Analytics
+        level: 98%
+        
+      - name: ThoughtSpot
+        level: 98%
+
+      - name: PowerBI
+        level: 98%
+        
+      - name: Python
+        level: 70%
+
+      - name: R
+        level: 70%
+        
+      - name: SharePoint
+        level: 70%
+
+      - name: JavaScript
+        level: 65%
+        
+      - name: Machine Learning
+        level: 60%
+        
+publications:
+    title: Articles and Blogs
+    intro: |
+      Blogs associated with implemenrations of best BI practices and standards across industries. Concepts here are explained through code snippets and tips for resolving technical challenges encountered, leveraging developers tools and languages such as SQL, Cognos, Power BI, ThoughtSpot and R Studio/Python.
+    papers:
+      - title: Cognos Analytics - Overview
+        link: "https://abhi2020-ds.github.io/blog/cognos/"
+        authors: Abhineet Singh
+        
+      - title: ThoughtSpot - BI Analytics
+        link: "https://abhi2020-ds.github.io/blog/tspot/"
+        authors: Abhineet Singh
+        
+      - title: Customer Sentiment Analysis Using R
+        link: "https://abhi2020-ds.github.io/blog/csa/"
+        authors: Abhineet Singh
+        
+      - title: Beautiful Soup Of Sport
+        link: "https://abhi2020-ds.github.io/blog/webscrp/"
+        authors: Abhineet Singh
         
 experiences:
     - role: Lead Specialist - Data Intelligence
@@ -180,48 +231,3 @@ experiences:
         - Trained End Users on how to use Cognos Tool and gather user requirements.
         - Proposed and documented Robust BI Practices during Team meetings.
 
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: SQL
-        level: 98%
-
-      - name: Cognos Analytics
-        level: 98%
-        
-      - name: ThoughtSpot
-        level: 98%
-
-      - name: PowerBI
-        level: 98%
-        
-      - name: Python
-        level: 70%
-
-      - name: R
-        level: 70%
-        
-      - name: SharePoint
-        level: 70%
-
-      - name: JavaScript
-        level: 65%
-        
-      - name: Machine Learning
-        level: 60%
-        
-publications:
-    title: Articles and Blogs
-    intro: |
-      Blogs associated with implemenrations of best BI practices and standards across industries. Concepts here are explained through code snippets and tips for resolving technical challenges encountered, leveraging developers tools and languages such as SQL, Cognos, Power BI, ThoughtSpot and R Studio/Python.
-    papers:
-      - title: Cognos Analytics - Overview
-        link: "https://abhi2020-ds.github.io/blog/cognos/"
-        authors: Abhineet Singh
-        
-      - title: ThoughtSpot - BI Analytics
-        link: "https://abhi2020-ds.github.io/blog/tspot/"
-        authors: Abhineet Singh
-        
