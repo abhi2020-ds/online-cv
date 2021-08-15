@@ -97,16 +97,16 @@ skills:
         level: 98%
         
       - name: Python
-        level: 70%
+        level: 80%
 
       - name: R
-        level: 70%
+        level: 80%
         
       - name: SharePoint
-        level: 70%
+        level: 80%
 
       - name: JavaScript
-        level: 65%
+        level: 70%
         
       - name: Machine Learning
         level: 60%
