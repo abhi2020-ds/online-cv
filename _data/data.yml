@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     MS in Computer Science from University of Illinois, 10+ years of experience & expertise in Solution design and Development of reporting and analytics tools, deep understanding of Database Management Systems and Enterprise Data Warehouse. Advanced knowledge of IT and business processes across Financial, Manufacturing and Education industries.
+     Data engineering and science enthusiast with 10+ years of experience in development of efficient reporting ecosystem. Expertise in synthesizing information from complex Enterprise Data Lakes and Warehouses. Diverse knowledge of application development IT methodologies inline with functional processes across different industries.
 
 education:
     - degree: MS in Computer Science
@@ -82,8 +82,13 @@ education:
 
         
 experiences:
+    - role: Lead Specialist - Data Intelligence
+      time: 2021 - Present
+      company: Dominos Pizza LLC , Ann Arbor MI
+      details: |
+        -
     - role: Sr Developer - Data Analytics
-      time: 2013 - Present
+      time: 2013 - 2021
       company: Ally Financials , Detroit MI
       details: |
         - BI SME for Dealer Services, collaborating with business to build critical reporting solutions
