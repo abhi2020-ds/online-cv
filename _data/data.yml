@@ -83,12 +83,12 @@ education:
         
 experiences:
     - role: Lead Specialist - Data Intelligence
-      time: 2021 - Present
+      time: June 2021 - Present
       company: Dominos Pizza LLC , Ann Arbor MI
       details: |
         -
     - role: Sr Developer - Data Analytics
-      time: 2013 - 2021
+      time: Oct 2013 - May 2021
       company: Ally Financials , Detroit MI
       details: |
         - BI SME for Dealer Services, collaborating with business to build critical reporting solutions
@@ -113,9 +113,34 @@ experiences:
         - Implemented IT processes that best fits IT standards from Reporting perspective.
         - Worked on re-designing legacy Framework Model , implemented design fixes to legacy models replacing relational modeling by star schema based modeling.
         - Used SharePoint developer suite to customize teams site content
-        
+  
+    - role: Sr. Solutions Architect
+      time: Aug 2012 - Oct 2013
+      company: TTI Of USA, NY, NY
+      details: |
+        - Created reporting framework and solutions for transnational system.
+        - Provided Data Analysis and logical fixes to data anomalies across database systems.
+        - Gathered requirements from business and documented specifications for junior developers.
+        - Involved in PoC for BI comparison tool : Cognos 11 (Analytics),Tableau, Power BI,and Qlik Sense
+        - Reviewed and Optimized legacy reports (using Report Studio suite) to improve run-time performance and reduce database CPU usage.
+        - Created custom visualizations graph using Visualization Modifier tool using JSON.
+        - Customized palettes to use standard color schemes.
+        - Worked on designing framework model for real-time complex relational reporting database.
+        - Created relational and star schema based reporting models using Framework 10.2.2/10.1.1
+        - Consolidated Cognos Upgrade (Business Enterprise NAO & Insurance Reports migration from version Cognos 8.4.1/8.3 to Cognos 10.1.1 to Cognos 10.2.2 in 2 yr timeframe)
+        - Automated Performance Analytic process for Enterprise Datamart Load Completion Status.
+        - Designed process for performance monitoring at Datawarehouse Load by using KPI's.
+        - Gathered Technical Requirements and Designed reports on IBM Inforsphere Business Glossary and Metadata Workbench Reporting Database.
+        - Implemented Cognos to IBM Business Glossary Integration.
+        - Implemented Cognos BI components lineage expansion using IBM Metadata Workbench tool.
+        - Provided Requirement Documentation for assigned cognos projects.
+        - Automated Cognos Framework and Report Specification document using self built tool called Abio. Tool extracts xml codes and transforms it into csv file for analysis and documentation purpose.
+        - Implemented IT processes that best fits IT standards from Reporting perspective.
+        - Worked on re-designing legacy Framework Model , implemented design fixes to legacy models replacing relational modeling by star schema based modeling.
+        - Implemented Automated System Monitoring through Foglight.
+
     - role: Datawarehouse Consultant
-      time: 2011 - 2012
+      time: Mar 2011 - Aug 2012
       company: Reliable Software Resources Inc., Northville, MI
       details: |
         - Worked on Cognos 8.4.1/8.3, Microstrategy, Powerplay Tranformer and
