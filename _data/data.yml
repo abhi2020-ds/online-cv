@@ -86,30 +86,33 @@ skills:
     toolset:
       - name: SQL
         level: 98%
+        
+      - name: PowerBI
+        level: 98%
+        
+      - name: Python
+        level: 85%
+
+      - name: R
+        level: 85%
 
       - name: Cognos Analytics
         level: 98%
         
       - name: ThoughtSpot
         level: 98%
-
-      - name: PowerBI
-        level: 98%
         
-      - name: Python
+      - name: Docker
         level: 80%
 
-      - name: R
-        level: 80%
-        
-      - name: SharePoint
-        level: 80%
-
-      - name: JavaScript
+      - name: Scripting (JS,PShell,Bat)
         level: 70%
         
       - name: Machine Learning
-        level: 60%
+        level: 65%
+
+      - name: Microsoft Suites (SharePoint,Automate,Planner,PowerApp)
+        level: 90%
         
 publications:
     title: Articles and Blogs
