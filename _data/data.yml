@@ -137,33 +137,35 @@ experiences:
       time: June 2021 - Present
       company: Dominos Pizza LLC , Ann Arbor MI
       details: |
-        -
+        - Created Docker Containers PoC for flask and streamlit python applications
+        - Built EDA solutions on R leveraging flex dashboards and Shiny Apps
+        - Created Automation using Power Automate and integrated to Microsoft Suites such as Power BI, Planner and SharePoint
     - role: Sr Developer - Data Analytics
       time: Oct 2013 - May 2021
       company: Ally Financials , Detroit MI
       details: |
-        - BI SME for Dealer Services, collaborating with business to build critical reporting solutions
-        - Using Agile Framework for project delivery leveraging JIRA, Bitbucket and Confluence tools maintaining project artifacts and code versioning and deployment pipeline
+        - BI SME for Dealer Services, collaborating with business to build critical reporting solutions.
+        - Using Agile Framework for project delivery leveraging JIRA, Bitbucket and Confluence tools maintaining project artifacts and code versioning and deployment pipeline.
         - Modeling data solutions to support comprehensive reporting user experience
         - Built reporting framework solutions for transactional & traditional warehouse systems.
         - Helped triaging data anomalies encountered for complex business rules within information systems.
-        - Documented reporting requirements specifications
-        - Diversifying consumption of reporting via BI tools : Cognos 11.x (Analytics), ThoughtSpot , and Power BI
+        - Documented reporting requirements specifications.
+        - Diversifying consumption of reporting via BI tools : Cognos 11.x (Analytics), ThoughtSpot , and Power BI.
         - Analyzed and tuned legacy reports to improve run-time performance and reduce database CPU utilization.
         - Used custom visualizations graph leveraging Visualization Modifier tool using JSON.
-        - Educated fellow authors on reporting standard practices
-        - Researched R and Python integration within PowerBI
-        - Created relational and star schema based reporting models using Framework Manager
-        - Consolidated Cognos Upgrade migration from version Cognos 8.4.1/8.3 to Cognos 10.x and Cognos 11.x
+        - Educated fellow authors on reporting standard practices.
+        - Researched R and Python integration within PowerBI.
+        - Created relational and star schema based reporting models using Framework Manager.
+        - Consolidated Cognos Upgrade migration from version Cognos 8.4.1/8.3 to Cognos 10.x and Cognos 11.x.
         - Automated Report distribution based on Enterprise Datamart Load Completion Status.
         - Designed process for performance monitoring at Datawarehouse Loads by using KPI's.
         - Gathered Technical Requirements and Designed reports on IBM Inforsphere Business Glossary and Metadata Workbench Reporting Database.
-        - Implemented Cognos to IBM Business Glossary integration
+        - Implemented Cognos to IBM Business Glossary integration.
         - Implemented Cognos BI components to IBM Metadata Workbench.
         - Automated Cognos Framework and Report Specification document by designing xml reader tool.
         - Implemented IT processes that best fits IT standards from Reporting perspective.
         - Worked on re-designing legacy Framework Model , implemented design fixes to legacy models replacing relational modeling by star schema based modeling.
-        - Used SharePoint developer suite to customize teams site content
+        - Used SharePoint developer suite to customize teams site content.
   
     - role: Sr. Solutions Architect
       time: Aug 2012 - Oct 2013
@@ -172,7 +174,7 @@ experiences:
         - Created reporting framework and solutions for transnational system.
         - Provided Data Analysis and logical fixes to data anomalies across database systems.
         - Gathered requirements from business and documented specifications for junior developers.
-        - Involved in PoC for BI comparison tool : Cognos 11 (Analytics),Tableau, Power BI,and Qlik Sense
+        - Involved in PoC for BI comparison tool : Cognos 11 (Analytics),Tableau, Power BI,and Qlik Sense.
         - Reviewed and Optimized legacy reports (using Report Studio suite) to improve run-time performance and reduce database CPU usage.
         - Created custom visualizations graph using Visualization Modifier tool using JSON.
         - Customized palettes to use standard color schemes.
