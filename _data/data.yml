@@ -87,7 +87,7 @@ skills:
       - name: SQL
         level: 98%
         
-      - name: PowerBI
+      - name: Power BI
         level: 98%
         
       - name: Python
@@ -105,13 +105,13 @@ skills:
       - name: Docker
         level: 80%
 
-      - name: Scripting (JS,PShell,Bat)
+      - name: JS & PShell Scripting
         level: 70%
         
       - name: Machine Learning
         level: 65%
 
-      - name: Microsoft Suites (SharePoint,Automate,Planner,PowerApp)
+      - name: Power Apps & Automate
         level: 90%
         
 publications:
