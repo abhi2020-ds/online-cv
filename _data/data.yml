@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: abhineet0303@outlook.com
-    phone: (734) 489 9550
+    phone: (858) 717 1803
     website: abhi2020-ds.github.io
     linkedin: abhineetsingh03
     github: https://github.com/abhi2020-ds
@@ -161,9 +161,9 @@ experiences:
       time: June 2021 - Present
       company: Dominos Pizza LLC , Ann Arbor MI
       details: | 
-	- Implemented predictive analytics for forecasting customer growth on dominos loyalty program, increased model effectiveness by 20%.      
+        - Implemented predictive analytics for forecasting customer growth on dominos loyalty program, increased model effectiveness by 20%.      
         - Spearheaded development of revamped loyalty reporting database assets resulting in creation of analytics tools for closely tracking customer’s engagement on loyalty programs and special marketing campaigns.
-	- Leveraged jenkins and power platforms to  automate and advance CI/CD pipelines and increase operational efficiency on supporting platforms.
+        - Leveraged jenkins and power platforms to  automate and advance CI/CD pipelines and increase operational efficiency on supporting platforms.
         - Build reporting asset in Power BI, R and Python.
         - Develop Web UI: Pandas Profiler tool for quick EDA on tab delimited and csv data extracts (build using Python and Docker).
         - Deploy in production, predictive models on loyalty customer growth and churn rates.
@@ -182,7 +182,7 @@ experiences:
       time: Oct 2013 - May 2021
       company: Ally Financials , Detroit MI
       details: |
-	- Led a team of data analysts in optimizing auto finance loan applications and originations processes through advanced analytics. 
+        - Led a team of data analysts in optimizing auto finance loan applications and originations processes through advanced analytics. 
         - BI SME for Dealer Services, collaborating with business to build critical reporting solutions.
         - Using Agile Framework for project delivery leveraging JIRA, Bitbucket and Confluence tools maintaining project artifacts and code versioning and deployment pipeline.
         - Modeling data solutions to support comprehensive reporting user experience
@@ -210,7 +210,7 @@ experiences:
       time: Aug 2012 - Oct 2013
       company: TTI Of USA, NY, NY
       details: | 
-	- Led a team of data analysts for a reporting software upgrade project.
+        - Led a team of data analysts for a reporting software upgrade project.
         - Created reporting framework and solutions for transnational system.
         - Provided Data Analysis and logical fixes to data anomalies across database systems.
         - Gathered requirements from business and documented specifications for junior developers.
