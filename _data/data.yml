@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Abhineet Singh
-    tagline: Lead Spclst - Data Intelligence
+    tagline: Data Intelligence Lead
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,33 +33,33 @@ sidebar:
 
 
     interests:
-      - item: Technology Webinar & Conferences
+      - item: Data Analytics Webinar & Conferences
         link:
 
-      - item: Community Services
+      - item: Tennis, Classic Rock & Football
         link:
 
-      - item: Employee Resouce Groups
+      - item: Coding
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-     Data engineering/science enthusiast with 12+ years of experience leading cross-functional IT teams in design and development of robust reporting ecosystem. Expertise in synthesizing information from complex OLTP & OLAP database systems. Expert in data management, statistical analysis, and machine learning algorithms with a proven track record of delivering impactful insights to drive business growth. Ability to communicate complex insights to non-technical shareholders. A collaborator & leader who mentors and develops team members to achieve high performance.
+     Data science and engineering expert with 12+ years leading cross-functional teams in design and development of robust reporting ecosystem. Expertise in synthesizing information from complex OLTP & OLAP database systems, applying predictive analytics to for critical decision making processes. Expert in data management, statistical analysis, and machine learning algorithms with a proven track record of delivering impactful insights to drive business growth. Ability to communicate complex insights to non-technical shareholders.
 
 education:
     - degree: MS in Computer Science
       university: University of Illinois Springfield
       time: 2009 - 2010
       details: |
-        Course work included Advanced Database Management Concepts, Data Mining,
+        Focus on Advanced Database Management Concepts, Data Mining,
         Computer Networks, Cyber Security , Robotics
 
     - degree: BE in Computer Science
       university: SJB Institute Of Technology
       time: 2004 - 2008
       details: |
-        Course work included Advanced Algorithms , Database Structures, Computer
+        Focus on Advanced Algorithms , Database Structures, Computer
         Organization, Electronics Communication, Microprocessors, C++, Java, Graphic Design
         
     - degree: Microsoft Certified Power BI Data Analyst Associate
@@ -67,6 +67,12 @@ education:
       time: 2022 - Current
       details: |
        Earning the Power BI Data Analyst Associate certification validates the skills and knowledge required to enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations.
+
+    - degree: Microsoft Certified Azure Data Engineer Associate
+      university: Microsoft
+      time: 2022 - Current
+      details: |
+       Earning the Azure Data Engineer Associate certification validates the skills and expertise in integrating, transforming, and consolidating data from various structured and unstructured data systems into structures that are suitable for building analytics solutions. Candidates have a solid knowledge of data processing languages, such as SQL, Python, or Scala, and they need to understand parallel processing and data architecture patterns.
        
     - degree: Certified ThoughtSpot Data Expert
       university: ThoughtSpotU
@@ -141,7 +147,7 @@ skills:
 publications:
     title: Articles and Blogs
     intro: |
-      Blogs associated with implemenrations of best BI practices and standards across industries. Concepts here are explained through code snippets and tips for resolving technical challenges encountered, leveraging developers tools and languages such as SQL, Cognos, Power BI, ThoughtSpot and R Studio/Python.
+      Blogs associated with implementations of best BI practices and standards across industries. Concepts here are explained through code snippets and tips for resolving technical challenges encountered, leveraging developers tools and languages such as SQL, Cognos, Power BI, ThoughtSpot and R Studio/Python.
     papers:
       - title: Cognos Analytics - Overview
         link: "https://abhi2020-ds.github.io/blog/cognos/"
@@ -160,18 +166,19 @@ publications:
         authors: Abhineet Singh
         
 experiences:
-    - role: Lead Specialist - Data Intelligence
+    - role: Data Intelligence Lead
       time: June 2021 - Present
       company: Dominos Pizza LLC , Ann Arbor MI
-      details: |
-          As a lead specialist for Domino’s EIM data intelligence team, I support analytics projects on Customer Loyalty Program. Providing key insights on customer engagement to help increase customer growth and increase sales revenue. As a lead, I work towards Implementing complex data pipelines using SQL/T-SQL, Python and R; develop complex insights using Power BI, Python and R. I also contribute to improving the team’s operational metrics through automation.
+      details: | 
+As a lead for Domino’s data intelligence team, I support analytics projects on Customer Loyalty Program. Providing key insights on customer engagement to help increase customer growth and increase sales revenue. As a lead, I work towards Implementing complex data pipelines using SQL/T-SQL, Python and R; develop complex insights using Power BI, Python and R. I also contribute to improving the team’s operational metrics through automation.
           
         - SME on Domino’s Loyalty Program based reporting & analytics on Data Intel Team.
         - Build reporting asset in Power BI, R and Python.
-        - Developed Web UI: Pandas Profiler tool for quick EDA on tab delimited and csv data extracts (build using Python and Docker).
-        - Created stored procedures for data cleansing and data ingestion for loyalty program.
-        - Scheduled data pipelines for batch processing using control m scheduler.
-        - Created several Docker Containers PoC for flask and streamlit python applications.
+        - Develope Web UI: Pandas Profiler tool for quick EDA on tab delimited and csv data extracts (build using Python and Docker).
+        - Deploy in production, predictive models on loyalty customer growth and churn rates.
+        - Create stored procedures for data cleansing and data ingestion processes.
+        - Schedule data pipelines for batch processing using control-m scheduler.
+        - Create several Docker Containers for flask and streamlit based python applications.
         - Built EDAs using R program based Shiny and Flex Dashboard.
         - Designed CI/CDs using Power Automate and integrated them to Microsoft Suites such as Power BI, Planner and SharePoint.
         - Participated in hack-a-thon challenges as learning and training exercise.
@@ -183,7 +190,8 @@ experiences:
     - role: Sr Developer - Data Analytics
       time: Oct 2013 - May 2021
       company: Ally Financials , Detroit MI
-      details: |
+      details: | 
+As a Senior Developer in the Data Analytics department, I provided impactful insights for Dealer Financial Services. I was responsible for designing data extraction processes and creating executive dashboards to visualize and drive data-driven decision-making across Ally Financials’ line of businesses.
         - BI SME for Dealer Services, collaborating with business to build critical reporting solutions.
         - Using Agile Framework for project delivery leveraging JIRA, Bitbucket and Confluence tools maintaining project artifacts and code versioning and deployment pipeline.
         - Modeling data solutions to support comprehensive reporting user experience
@@ -210,7 +218,8 @@ experiences:
     - role: Sr. Solutions Architect
       time: Aug 2012 - Oct 2013
       company: TTI Of USA, NY, NY
-      details: |
+      details: | 
+In my role as a solutions architect, I collaborated with the reporting team at Dealer Financial Services to construct easily understandable business reports for customers. My primary focus was on delivering key insights for loan applications, originations, and the commercial Line of Business. I conducted assessments of emerging technologies such as Tableau & Qlik Sense, ensuring I stayed informed about the latest trends in data analytics. 
         - Created reporting framework and solutions for transnational system.
         - Provided Data Analysis and logical fixes to data anomalies across database systems.
         - Gathered requirements from business and documented specifications for junior developers.
@@ -232,10 +241,11 @@ experiences:
         - Worked on re-designing legacy Framework Model , implemented design fixes to legacy models replacing relational modeling by star schema based modeling.
         - Implemented Automated System Monitoring through Foglight.
 
-    - role: Datawarehouse Consultant
+    - role: Data Warehouse Consultant
       time: Mar 2011 - Aug 2012
       company: Reliable Software Resources Inc., Northville, MI
-      details: |
+      details: | 
+In my capacity as a Data Warehouse Consultant, I played a pivotal role in overseeing the entire lifecycle of reporting projects within the Solar Turbines Manufacturing Industry. I effectively communicated intricate insights pertaining to progress payments, financial reporting, and supply chain work streams. 
         - Worked on Cognos 8.4.1/8.3, Microstrategy, Powerplay Tranformer and
         Informatica Environment.
         - Creation of users groups and roles for security set up in Cognos 8.4.1 using
