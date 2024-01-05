@@ -160,9 +160,9 @@ experiences:
     - role: Data Intelligence Lead
       time: June 2021 - Present
       company: Dominos Pizza LLC , Ann Arbor MI
-      details: |  
-          In my role as the lead for Domino’s data intelligence team, I contribute to analytics projects focused on enhancing the Customer Loyalty Program. My responsibilities include offering crucial insights into customer engagement to drive growth and boost profitability.        
-        - SME on Domino’s Loyalty Program based reporting & analytics on Data Intel Team.
+      details: |       
+        In my role as the lead for Domino’s data intelligence team, I contribute to analytics projects focused on enhancing the Customer Loyalty Program. My responsibilities include offering crucial insights into customer engagement to drive growth and boost profitability.
+	- SME on Domino’s Loyalty Program based reporting & analytics on Data Intel Team.
         - Build reporting asset in Power BI, R and Python.
         - Develope Web UI: Pandas Profiler tool for quick EDA on tab delimited and csv data extracts (build using Python and Docker).
         - Deploy in production, predictive models on loyalty customer growth and churn rates.
