@@ -52,64 +52,55 @@ education:
       university: University of Illinois Springfield
       time: 2009 - 2010
       details: |
-        Focus on Advanced Database Management Concepts, Data Mining,
-        Computer Networks, Cyber Security , Robotics
 
     - degree: BE in Computer Science
       university: SJB Institute Of Technology
       time: 2004 - 2008
       details: |
-        Focus on Advanced Algorithms , Database Structures, Computer
-        Organization, Electronics Communication, Microprocessors, C++, Java, Graphic Design
         
     - degree: Microsoft Certified Power BI Data Analyst Associate
       university: Microsoft
       time: 2022 - Current
       details: |
-       Earning the Power BI Data Analyst Associate certification validates the skills and knowledge required to enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations.
 
     - degree: Microsoft Certified Azure Data Engineer Associate
       university: Microsoft
       time: 2022 - Current
       details: |
-       Earning the Azure Data Engineer Associate certification validates the skills and expertise in integrating, transforming, and consolidating data from various structured and unstructured data systems into structures that are suitable for building analytics solutions. Candidates have a solid knowledge of data processing languages, such as SQL, Python, or Scala, and they need to understand parallel processing and data architecture patterns.
        
     - degree: Certified ThoughtSpot Data Expert
       university: ThoughtSpotU
       time: 2021 - Current
       details: |
-       A Certified ThoughtSpot Data Expert can deploy and set up a ThoughtSpot installation. They can go from a few data files and a newly deployed instance to an intuitive, searchable data experience. They know how to load data and create worksheets, so that users can access data and ask questions on their own. They can make the appropriate settings and configurations to ensure that the value of ThoughtSpot is realized in a real world use case.
+
         
     - degree: Certified ThoughtSpot Professional
       university: ThoughtSpotU
       time: 2021 - Current
       details: |
-        A Certified ThoughtSpot Professional has proven their ability to use ThoughtSpot as an end user, at a very advanced level. They can choose the best approach among alternative ways of getting answers from data. They know how to write complex formulas, use the most powerful keywords, and handle aggregation. They can communicate their insights from data understandably and comprehensively.
+        
 
     - degree: Machine Learning
       university: Coursera
       time: 2020 - Current
       details: |
-       This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+     
        
     - degree: Azure Fundamentals
       university: Microsoft
       time: 2022 - Current
       details: |
-       Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
        
     - degree: Azure Data Fundamentals
       university: Microsoft
       time: 2022 - Current
       details: |
-       Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
        
     - degree: Azure AI Fundamentals
       university: Microsoft
       time: 2022 - Current
       details: |
-       Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.
-
+  
 skills:
     title: Skills &amp; Proficiency
 
@@ -169,9 +160,7 @@ experiences:
     - role: Data Intelligence Lead
       time: June 2021 - Present
       company: Dominos Pizza LLC , Ann Arbor MI
-      details: | 
-As a lead for Domino’s data intelligence team, I support analytics projects on Customer Loyalty Program. Providing key insights on customer engagement to help increase customer growth and increase sales revenue. As a lead, I work towards Implementing complex data pipelines using SQL/T-SQL, Python and R; develop complex insights using Power BI, Python and R. I also contribute to improving the team’s operational metrics through automation.
-          
+      details: |          
         - SME on Domino’s Loyalty Program based reporting & analytics on Data Intel Team.
         - Build reporting asset in Power BI, R and Python.
         - Develope Web UI: Pandas Profiler tool for quick EDA on tab delimited and csv data extracts (build using Python and Docker).
@@ -191,7 +180,6 @@ As a lead for Domino’s data intelligence team, I support analytics projects on
       time: Oct 2013 - May 2021
       company: Ally Financials , Detroit MI
       details: | 
-As a Senior Developer in the Data Analytics department, I provided impactful insights for Dealer Financial Services. I was responsible for designing data extraction processes and creating executive dashboards to visualize and drive data-driven decision-making across Ally Financials’ line of businesses.
         - BI SME for Dealer Services, collaborating with business to build critical reporting solutions.
         - Using Agile Framework for project delivery leveraging JIRA, Bitbucket and Confluence tools maintaining project artifacts and code versioning and deployment pipeline.
         - Modeling data solutions to support comprehensive reporting user experience
@@ -219,7 +207,6 @@ As a Senior Developer in the Data Analytics department, I provided impactful ins
       time: Aug 2012 - Oct 2013
       company: TTI Of USA, NY, NY
       details: | 
-In my role as a solutions architect, I collaborated with the reporting team at Dealer Financial Services to construct easily understandable business reports for customers. My primary focus was on delivering key insights for loan applications, originations, and the commercial Line of Business. I conducted assessments of emerging technologies such as Tableau & Qlik Sense, ensuring I stayed informed about the latest trends in data analytics. 
         - Created reporting framework and solutions for transnational system.
         - Provided Data Analysis and logical fixes to data anomalies across database systems.
         - Gathered requirements from business and documented specifications for junior developers.
@@ -245,7 +232,6 @@ In my role as a solutions architect, I collaborated with the reporting team at D
       time: Mar 2011 - Aug 2012
       company: Reliable Software Resources Inc., Northville, MI
       details: | 
-In my capacity as a Data Warehouse Consultant, I played a pivotal role in overseeing the entire lifecycle of reporting projects within the Solar Turbines Manufacturing Industry. I effectively communicated intricate insights pertaining to progress payments, financial reporting, and supply chain work streams. 
         - Worked on Cognos 8.4.1/8.3, Microstrategy, Powerplay Tranformer and
         Informatica Environment.
         - Creation of users groups and roles for security set up in Cognos 8.4.1 using
