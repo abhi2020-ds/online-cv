@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Data science and engineering expert with 12+ years leading cross-functional teams in design and development of robust reporting ecosystem. Expertise in synthesizing information from complex OLTP & OLAP database systems, applying predictive analytics to for critical decision making processes. Expert in data management, statistical analysis, and machine learning algorithms with a proven track record of delivering impactful insights to drive business growth. Ability to communicate complex insights to non-technical shareholders.
+     Accomplished and seasoned Advanced Data Analytics Expert with over 13+ years of experience across diverse industries. Proven track record of engineering advanced data analytics solutions to drive business insights, enhance operational efficiency, and optimize decision-making processes. A strategic thinker with a keen understanding of industry-specific challenges, dedicated to delivering impactful results through efficient data-driven strategies.
 
 education:
     - degree: MS in Computer Science
@@ -105,34 +105,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: SQL/T-SQL
+      - name: SQL/T-SQL/PL-SQL
         level: 98%
         
-      - name: Power BI
+      - name: Power BI & DAX
         level: 98%
         
-      - name: Python
-        level: 85%
+      - name: Python & R
+        level: 90%
 
-      - name: R
-        level: 85%
-
-      - name: Cognos Analytics
+      - name: Cognos, ThoughtSpot and Tableau
         level: 98%
         
-      - name: ThoughtSpot
-        level: 98%
-        
-      - name: Docker
+      - name: Docker Containerization
         level: 80%
 
-      - name: JS & PShell Scripting
+      - name: JavaScript & PowerShell Scripting
         level: 70%
         
       - name: Machine Learning
         level: 85%
 
-      - name: Power Apps & Automate
+      - name: Power Platforms
         level: 90%
         
 publications:
@@ -161,115 +155,44 @@ experiences:
       time: June 2021 - Present
       company: Dominos Pizza LLC , Ann Arbor MI
       details: | 
-        - Implemented predictive analytics for forecasting customer growth on dominos loyalty program, increased model effectiveness by 20%.      
-        - Spearheaded development of revamped loyalty reporting database assets resulting in creation of analytics tools for closely tracking customer’s engagement on loyalty programs and special marketing campaigns.
-        - Leveraged jenkins and power platforms to  automate and advance CI/CD pipelines and increase operational efficiency on supporting platforms.
-        - Build reporting asset in Power BI, R and Python.
-        - Develop Web UI: Pandas Profiler tool for quick EDA on tab delimited and csv data extracts (build using Python and Docker).
-        - Deploy in production, predictive models on loyalty customer growth and churn rates.
-        - Create stored procedures for data cleansing and data ingestion processes.
-        - Schedule data pipelines for batch processing using control-m scheduler.
-        - Create several Docker Containers for flask and streamlit based python applications.
-        - Built EDAs using R program based Shiny and Flex Dashboard.
-        - Designed CI/CDs using Power Automate and integrated them to Microsoft Suites such as Power BI, Planner and SharePoint.
-        - Participated in hack-a-thon challenges as learning and training exercise.
-        - Created standard templates for documenting technical code changes and versioning in Bitbucket using Markdowns and Confluence Pages.
-        - Handled user request via JIRA ticketing system. Designed a simplified Power App and Planner based Intake Process.
-        - Completed Azure Fundamentals AZ900, DP900 and AI900 Certifications.
-        - Completed PL300 Power BI Data Analyst and Azure Data Engineer certifications.
+        - Implemented predictive analytics for forecasting customer growth on dominos  loyalty program, increased model effectiveness by 20%.      
+        - Spearheaded development of revamped loyalty program reporting data structures by implementing advanced analytics tools to track customer engagement, Domino’s Loyalty Program, and special marketing campaigns.
+        - Collaborated with Sr. Directors and Marketing VPs to define KPIs for Marketing and Consumer Analytics Dashboards.
+        - Partnered with a team of  Data Scientists and Data Engineers to address known data gaps and rectify any data issues.
+        - Created intuitive dashboards to facilitate end results on special campaigns A/B Testing.
+        - Implemented automated workflows focused on improving operational efficiency using CI/CD pipelines on data ingestion, data transformation and front-end analytics platform. Used technical products such as  Jenkins, Docker, Artifactory, Atlassian Tools, Power BI  and Power Platforms.
+        - Improved data quality process by adding automated checks to ensure relevant and timely alert generation during data delays, anomalies and other upstream data issues.
+        - Created complex ETL & ELT solutions using Talend Studio and SQL Sprocs to support the front end reporting platforms and improve data readiness aspect of analytics.
+        - Partnering with the Data Engineering Team to strategize Azure Cloud Migration from On-Prem Systems.
+        - Completed Microsoft Certifications on Azure Cloud and Power BI.
         
     - role: Sr Developer - Data Analytics
       time: Oct 2013 - May 2021
       company: Ally Financials , Detroit MI
       details: |
-        - Led a team of data analysts in optimizing auto finance loan applications and originations processes through advanced analytics. 
-        - BI SME for Dealer Services, collaborating with business to build critical reporting solutions.
-        - Using Agile Framework for project delivery leveraging JIRA, Bitbucket and Confluence tools maintaining project artifacts and code versioning and deployment pipeline.
-        - Modeling data solutions to support comprehensive reporting user experience
-        - Built reporting framework solutions for transactional & traditional warehouse systems.
-        - Helped triaging data anomalies encountered for complex business rules within information systems.
-        - Documented reporting requirements specifications.
-        - Diversifying consumption of reporting via BI tools : Cognos 11.x (Analytics), ThoughtSpot , and Power BI.
-        - Analyzed and tuned legacy reports to improve run-time performance and reduce database CPU utilization.
-        - Used custom visualizations graph leveraging Visualization Modifier tool using JSON.
-        - Educated fellow authors on reporting standard practices.
-        - Researched R and Python integration within PowerBI.
-        - Created relational and star schema based reporting models using Framework Manager.
-        - Consolidated Cognos Upgrade migration from version Cognos 8.4.1/8.3 to Cognos 10.x and Cognos 11.x.
-        - Automated Report distribution based on Enterprise Datamart Load Completion Status.
-        - Designed process for performance monitoring at Datawarehouse Loads by using KPI's.
-        - Gathered Technical Requirements and Designed reports on IBM Inforsphere Business Glossary and Metadata Workbench Reporting Database.
-        - Implemented Cognos to IBM Business Glossary integration.
-        - Implemented Cognos BI components to IBM Metadata Workbench.
-        - Automated Cognos Framework and Report Specification document by designing xml reader tool.
-        - Implemented IT processes that best fits IT standards from Reporting perspective.
-        - Worked on re-designing legacy Framework Model , implemented design fixes to legacy models replacing relational modeling by star schema based modeling.
-        - Used SharePoint developer suite to customize teams site content.
+        - Led a team of data analysts in optimizing auto finance loan applications and originations processes through advanced analytics using Power BI, and Cognos Reporting Suite. 
+        - Implemented predictive models for seasonal loan applications volume tracking.
+        - Analyzed transactional data on customer portfolio to identify patterns on delinquency tracking and along with insights around risk assessments for commercial lending.
+        - Analyzed auto finance transactional data on customer portfolio management; identified data patterns on delinquency tracking, and presented key insights around risk assessments scoring  for commercial lending.
+        - Participated in the technical CoE (center of excellence) team meetings to construct and implement standards around coding and data analytics  best practices.
+        - Supported enterprise scale analytics technology upgrade projects on Cognos and Power BI platform.
   
     - role: Sr. Solutions Architect
       time: Aug 2012 - Oct 2013
       company: TTI Of USA, NY, NY
       details: | 
         - Led a team of data analysts for a reporting software upgrade project.
-        - Created reporting framework and solutions for transnational system.
-        - Provided Data Analysis and logical fixes to data anomalies across database systems.
-        - Gathered requirements from business and documented specifications for junior developers.
-        - Involved in PoC for BI comparison tool : Cognos 11 (Analytics),Tableau,and Qlik Sense.
-        - Reviewed and Optimized legacy reports (using Report Studio suite) to improve run-time performance and reduce database CPU usage.
-        - Created custom visualizations graph using Visualization Modifier tool using JSON.
-        - Customized palettes to use standard color schemes.
-        - Worked on designing framework model for real-time complex relational reporting database.
-        - Created relational and star schema based reporting models using Framework 10.2.2/10.1.1
-        - Consolidated Cognos Upgrade (Business Enterprise NAO & Insurance Reports migration from version Cognos 8.4.1/8.3 to Cognos 10.1.1 to Cognos 10.2.2 in 2 yr timeframe)
-        - Automated Performance Analytic process for Enterprise Datamart Load Completion Status.
-        - Designed process for performance monitoring at Datawarehouse Load by using KPI's.
-        - Gathered Technical Requirements and Designed reports on IBM Inforsphere Business Glossary and Metadata Workbench Reporting Database.
-        - Implemented Cognos to IBM Business Glossary Integration.
-        - Implemented Cognos BI components lineage expansion using IBM Metadata Workbench tool.
-        - Provided Requirement Documentation for assigned cognos projects.
-        - Automated Cognos Framework and Report Specification document using self built tool called Abio. Tool extracts xml codes and transforms it into csv file for analysis and documentation purpose.
-        - Implemented IT processes that best fits IT standards from Reporting perspective.
-        - Worked on re-designing legacy Framework Model , implemented design fixes to legacy models replacing relational modeling by star schema based modeling.
-        - Implemented Automated System Monitoring through Foglight.
+        - Created reporting framework and solutions for transnational systems.
+        - Developed cross integration between Cognos and IBM Infosphere to evolve enterprise  data governance strategy.
+        - Created performance monitoring and data availability tracking report for improving operational efficiency.
+        - Built a tool using Java for automating modeling documentation to support seamless documentation on reporting projects.
 
     - role: Data Warehouse Consultant
       time: Mar 2011 - Aug 2012
       company: Reliable Software Resources Inc., Northville, MI
       details: | 
-        - Worked on Cognos 8.4.1/8.3, Microstrategy, Powerplay Tranformer and
-        Informatica Environment.
-        - Creation of users groups and roles for security set up in Cognos 8.4.1 using
-        CWS LDAP.
-        - Analyzed the business requirements to understand the business rules of the
-        company by coordinating with data architects and stakeholder committee
-        members.
-        - Provided Production Support and maintained System Stability and
-        Performance of Cognos Servers.
-        - Involved in UAT process and deployment of reports from Cognos Dev to QA to
-        Production.
-        - Used TOAD for Oracle software to test the data of the Cognos Reports in
-        Oracle database.
-        - Created Complex Reports, Dashboards, Ad-Hoc Reports and Scorecards
-        using Report Studio, Query Studio, Analysis Studio and Metric Studio.
-        - Developed DMR (Dimensionally Metadata modeling using Relational
-        Database) Models (Drill up, drill down Levels: Powerplay) in Framework
-        Manager using IBM best practices.
-        - Developed Complex Reports, which involved multi-Prompts, multi-query
-        against multiple databases.
-        - Created a standard design Template for Cognos Reports to achieve user
-        feasibility.
-        - Coordinated with Cognos Administrators to schedule and deploy cubes to
-        respective environments
-        - Designed IQD packages in Framework Manager and integrated to Powerplay
-        transformer to create various models and cubes.
-        - Analyzed the sources, targets, transformed the data, mapped the data and
-        loading the data into the data warehouse.
-        - Utilized a lookup and update strategy to lookup values from different tables and
-        to update slowly changing dimensions.
-        - Developed reusable mapplets and Transformations.
-        - Extensively used Informatica designer to create and manipulate source
-        definitions, target definitions, mappings, mapplets, transformations, re-usable
-        transformations etc.
-        - Trained End Users on how to use Cognos Tool and gather user requirements.
-        - Proposed and documented Robust BI Practices during Team meetings.
-
+        - Documented technical requirements to capture the business rules for data analytics projects.
+        - Partnered with data architects and stakeholder committee members to provide standard reporting.
+        - Developed Dimensional Models and Relational Models using Cognos Frameworks.
+        - Designed ETL processes  using Informatica.
+        - Tracked and resolved platform support tickets.
