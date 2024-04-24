@@ -57,35 +57,7 @@ education:
       university: SJB Institute Of Technology
       time: 2004 - 2008
       details: |
-        
-    - degree: Microsoft Certified Power BI Data Analyst Associate
-      university: Microsoft
-      time: 2022 - Current
-      details: |
 
-    - degree: Microsoft Certified Azure Data Engineer Associate
-      university: Microsoft
-      time: 2022 - Current
-      details: |
-       
-    - degree: Certified ThoughtSpot Data Expert
-      university: ThoughtSpotU
-      time: 2021 - Current
-      details: |
-
-        
-    - degree: Certified ThoughtSpot Professional
-      university: ThoughtSpotU
-      time: 2021 - Current
-      details: |
-        
-
-    - degree: Machine Learning
-      university: Coursera
-      time: 2020 - Current
-      details: |
-     
-       
     - degree: Azure Fundamentals
       university: Microsoft
       time: 2022 - Current
@@ -100,6 +72,33 @@ education:
       university: Microsoft
       time: 2022 - Current
       details: |
+        
+    - degree: Microsoft Certified Power BI Data Analyst Associate
+      university: Microsoft
+      time: 2022 - Current
+      details: |
+
+    - degree: Microsoft Certified Azure Data Engineer Associate
+      university: Microsoft
+      time: 2022 - Current
+      details: |
+
+    - degree: Machine Learning
+      university: Coursera
+      time: 2020 - Current
+      details: |
+       
+    - degree: Certified ThoughtSpot Data Expert
+      university: ThoughtSpotU
+      time: 2021 - Current
+      details: |
+
+        
+    - degree: Certified ThoughtSpot Professional
+      university: ThoughtSpotU
+      time: 2021 - Current
+      details: |
+        
   
 skills:
     title: Skills &amp; Proficiency
